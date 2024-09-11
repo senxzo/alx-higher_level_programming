@@ -3,4 +3,3 @@
 for i in range(ord('a'), ord('z') + 1):
     if (chr(i) != 'q' OR  chr(i) !='e')
         print("{:c}".format(i), end="")
-        

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/senzo_000/Desktop/alx-higher_level_programming/0x07-python-test_driven_development",
+      "program": "/Users/senzo_000/Desktop/alx-higher_level_programming/0x07-python-test_driven_development/build/Debug/outDebug"
+    }
+  ]
+}
